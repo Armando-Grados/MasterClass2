@@ -3868,25 +3868,9 @@ footer a:hover {
   box-shadow: 1rem 1rem 1rem whitesmoke;
 }
 
-.agrandar{
-  width: 74rem;
-  height: 60rem;
-  margin: 5rem auto 15rem auto;
-}
 
-.share-btn{
-  background: linear-gradient(30deg, #3498db, #5363d8);
-  color: #fff;
-  font-family: "Montserrat";
-  font-size: 20px;
-  font-weight: 600;
-  cursor: pointer;
-  overflow: hidden;
-  position: relative;
-  border-radius: 40px;
-  transition: .3s;
-  width: 40rem;
-}
+
+
 button .text{
   font-size: 2.3rem;
 }
@@ -3940,16 +3924,39 @@ button .icon, button a{
   opacity: .7;
 }
 
+
+
 .img-responsive {
   object-fit: contain;
   margin-bottom: -1.5rem;
+  width: 44.5rem;
 }
+
+.agrandar{
+  width: 48rem;
+  margin: 5rem auto 5rem auto;
+}
+
+.share-btn{
+  background: linear-gradient(30deg, #3498db, #5363d8);
+  color: #fff;
+  font-family: "Montserrat";
+  font-size: 20px;
+  font-weight: 600;
+  cursor: pointer;
+  overflow: hidden;
+  position: relative;
+  border-radius: 40px;
+  transition: .3s;
+  width: 45rem;
+}
+
 .img-gaa{
   width: 70rem;
 }
 
-.agrandar img{
-
+.verde-mio{
+  color: #1ae600;
 }
 
 @media () {
